@@ -1,0 +1,3 @@
+Sistema: Windows 10
+Processador: Intel I7 9 Geração
+Memória: 16 GB DDR 4 4266MHZ

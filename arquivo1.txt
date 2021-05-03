@@ -1,0 +1,3 @@
+Sistema: Windows 10 Professional
+Processador: Intel I7 7 Geração
+Memória: 8 GB DDR 4 2400MHZ
